@@ -10,3 +10,4 @@ PyPDF2
 tqdm
 python-dotenv
 gradio
+beautifulsoup4
